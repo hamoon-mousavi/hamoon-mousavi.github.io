@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral fellow at the Simons Institute at Berkeley hosted by Prof. [Umesh Vazirani](https://people.eecs.berkeley.edu/~vazirani/). I completed my PhD in Computer Science at Columbia University advised by Prof. [Henry Yuen](https://www.henryyuen.net/). My research is focused on the interplay between quantum information and optimization as it relates to noncommutative polynomials, approximation algorithms, and hardness results.
+I am a postdoctoral fellow at the Simons Institute at Berkeley hosted by Prof. [Umesh Vazirani](https://people.eecs.berkeley.edu/~vazirani/). I completed my PhD in Computer Science at Columbia University advised by Prof. [Henry Yuen](https://www.henryyuen.net/). My research is focused on the interplay between quantum information and optimization particularly in the context of noncommutative polynomials, approximation algorithms, and hardness.
 
 [**CV**](/files/cv.pdf)
 
@@ -47,4 +47,4 @@ I am a postdoctoral fellow at the Simons Institute at Berkeley hosted by Prof. [
 
 **Software**
 
-  I wrote the first version of [Walnut](https://github.com/hamousavi/Walnut), an automated theorem prover, back in 2013. Prof. Jeffrey Shallit keeps an updated list of papers using Walnut [here](https://cs.uwaterloo.ca/~shallit/walnut.html) with links to newer versions.
+  I wrote the first version of [Walnut](https://github.com/hamousavi/Walnut), an automated theorem prover, back in 2013. Prof. Jeffrey Shallit keeps an updated list of papers using Walnut [here](https://cs.uwaterloo.ca/~shallit/walnut.html).
