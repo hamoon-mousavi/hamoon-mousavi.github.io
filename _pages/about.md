@@ -18,7 +18,7 @@ You can download my **CV** [here](/files/cv.pdf). You can find a Q&A with me [he
 
 + Nonlocal Games, Compression Theorems, and the Arithmetical Hierarchy, with S. Nezhadi, H. Yuen, **QIP plenary talk 2022** and **STOC 2022**, [arXiv:2110.04651](https://arxiv.org/abs/2110.04651).
 
-+ On the complexity of zero gap MIP*, with S. Nezhadi, H. Yuen, **ICALP 2020** and **TQC 2020**, [https://arxiv.org/abs/2002.10490](arXiv:2002.10490).
++ On the complexity of zero gap MIP*, with S. Nezhadi, H. Yuen, **ICALP 2020** and **TQC 2020**, [arXiv:2002.10490](https://arxiv.org/abs/2002.10490]).
 
 + A generalization of CHSH and the algebraic structure of optimal strategies, with D. Cui, A. Mehta, S. Nezhadi, **QIP 2020** and Quantum (4, 346) 2020, [arXiv:1911.01593](https://arxiv.org/abs/1911.01593).
 
@@ -39,7 +39,7 @@ You can download my **CV** [here](/files/cv.pdf). You can find a Q&A with me [he
 
 + Repetition avoidance in circular factorsm, with J. Shallit, 17th International Conference DLT 2013, [arXiv:1212.0052](https://arxiv.org/abs/1212.0052).
 
-+ Filtrations of formal languages by arithmetic progressions, Fundamenta Informaticae (123:135--142) 2013, [arXiv:1112.3758](https://arxiv.org/abs/1112.3758}{arXiv:1112.3758).
++ Filtrations of formal languages by arithmetic progressions, with J. Shallit, Fundamenta Informaticae (123:135--142) 2013, [arXiv:1112.3758](https://arxiv.org/abs/1112.3758}{arXiv:1112.3758).
 
 **Preprints and Manuscripts**
 + Lower bounds on the length of regular expressions, 2017, [arXiv:1712.00811](https://arxiv.org/abs/1712.00811v2).
