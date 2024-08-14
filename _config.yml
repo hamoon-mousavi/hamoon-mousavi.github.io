@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : null 
-title_separator          : #"-"
-name                     : luaphacim's site
+title                    : Hamoon Mousavi 
+title_separator          : "-"
+name                     : &name "Hamoon Mousavi"
 description              : &description "Postdoctoral Fellow"
 url                      : https://hamoon-mousavi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
