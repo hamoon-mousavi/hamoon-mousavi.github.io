@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : #"Hamoon Mousavi"
+title                    : null 
 title_separator          : #"-"
-name                     : &name "Hamoon Mousavi"
+name                     : luaphacim's site
 description              : &description "Postdoctoral Fellow"
 url                      : https://hamoon-mousavi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpeg"
   name             : "Hamoon Mousavi"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Fellow at Simons-Berkeley"
+  bio              : "Postdoctoral Fellow"
   location         : "Berkeley, California"
   employer         : 
   uri              : 
