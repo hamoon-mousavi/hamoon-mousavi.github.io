@@ -24,11 +24,12 @@ author:
   avatar           : "profile.jpeg"
   name             : "Hamoon Mousavi"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Fellow at Simons Institute"
-  location         : "Berkeley, California"
+  bio              : #"Postdoctoral Fellow"
+  location         : #"Berkeley, California"
   employer         : 
   uri              : 
   email            : "hmousavi@berkeley.edu" 
+  cv               : [CV](/files/CV.pdf)
 
   # Academic websites
   arxiv            : 
