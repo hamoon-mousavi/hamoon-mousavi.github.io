@@ -12,7 +12,7 @@ I am a postdoctoral fellow at the Simons Institute at Berkeley hosted by Prof. [
 [**CV**](/files/cv.pdf)
 
 **Publications**
-+ New inverstigation into noncommutative CSPs, with E. Culf, T. Spirig, **FOCS 2024**, [arXiv:2312.16765](https://arxiv.org/abs/2312.16765) and an updated version [here](/files/new_investigations.pdf).
++ New investigation into noncommutative CSPs, with E. Culf, T. Spirig, **FOCS 2024**, [arXiv:2312.16765](https://arxiv.org/abs/2312.16765) and an updated version [here](/files/new_investigations.pdf).
 
 + Synchronous Values of Games, with J. Helton, S. Nezhadi, V. Paulsen, T. Russel, Annales Henri Poincaré (1-41) 2024 and Tsirelson Memorial Workshop 2022, [arXiv:2109.14741](https://arxiv.org/abs/2109.14741).
 
