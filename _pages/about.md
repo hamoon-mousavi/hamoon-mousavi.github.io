@@ -9,7 +9,7 @@ redirect_from:
 
 I am a postdoctoral fellow at the Simons Institute at Berkeley hosted by Prof. [Umesh Vazirani](https://people.eecs.berkeley.edu/~vazirani/). I completed my PhD in Computer Science at Columbia University advised by Prof. [Henry Yuen](https://www.henryyuen.net/). My research is focused on the interplay between quantum information and optimization particularly in the context of noncommutative polynomials, approximation algorithms, and hardness.
 
-[**CV**](/files/cv.pdf)
+You can download my **CV** [here](/files/cv.pdf). You can find a Q&A with me [here](https://quantum.columbia.edu/news/quantum-qa-phd-student-hamoon-mousavi).
 
 **Publications**
 + New investigation into noncommutative CSPs, with E. Culf, T. Spirig, **FOCS 2024**, [arXiv:2312.16765](https://arxiv.org/abs/2312.16765) and an updated version [here](/files/new_investigations.pdf).
