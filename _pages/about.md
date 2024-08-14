@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral fellow at Simons at Berkeley hosted by Prof. [Umesh Vazirani](https://people.eecs.berkeley.edu/~vazirani/). I did my PhD in Computer Science at Columbia University advised by Prof. [Henry Yuen](https://www.henryyuen.net/). My research is focused on the interplay between quantum information and optimization as it relates to noncommutative polynomials, approximation algorithms, and hardness results.
+I am a postdoctoral fellow at the Simons Institute at Berkeley hosted by Prof. [Umesh Vazirani](https://people.eecs.berkeley.edu/~vazirani/). I did my PhD in Computer Science at Columbia University advised by Prof. [Henry Yuen](https://www.henryyuen.net/). My research is focused on the interplay between quantum information and optimization as it relates to noncommutative polynomials, approximation algorithms, and hardness results.
 
 [**CV**](/files/cv.pdf)
 
