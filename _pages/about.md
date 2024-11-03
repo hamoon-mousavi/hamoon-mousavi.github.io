@@ -9,7 +9,7 @@ redirect_from:
 
 I am a postdoctoral fellow at the Simons Institute at Berkeley hosted by Prof. [Umesh Vazirani](https://people.eecs.berkeley.edu/~vazirani/). I completed my PhD in Computer Science at Columbia University advised by Prof. [Henry Yuen](https://www.henryyuen.net/). 
 
-My research centers on quantum computing and complexity, with a focus on advancing the theory of noncommutative polynomial optimization. I aim to deepen our understanding of constraint satisfaction problems in both quantum and classical settings, using the perspective of quantum information, primarily leveraging the unique properties of noncommutative algebras.
+My research focuses on quantum computing and complexity, particularly in further developing the theory of noncommutative polynomial optimization. I study constraint satisfaction problems in both quantum and classical settings through the lens of quantum information, drawing on the unique aspects of noncommutative algebras.
 
 <!-- You can download my **CV** [here](/files/cv.pdf). You can find a Q&A with me [here](https://quantum.columbia.edu/news/quantum-qa-phd-student-hamoon-mousavi). -->
 
