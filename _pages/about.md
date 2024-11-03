@@ -12,7 +12,8 @@ I am a postdoctoral fellow at the Simons Institute at Berkeley hosted by Prof. [
 You can download my **CV** [here](/files/cv.pdf). You can find a Q&A with me [here](https://quantum.columbia.edu/news/quantum-qa-phd-student-hamoon-mousavi). 
 
 **Publications**
-+ Approximation Algorithms for Noncommutative CSPs, **FOCS 2024**, [arXiv:2312.16765](https://arxiv.org/abs/2312.16765](https://arxiv.org/abs/2312.16765)\\
++ Approximation Algorithms for Noncommutative CSPs, **FOCS 2024**, [arXiv:2312.16765](https://arxiv.org/abs/2312.16765](https://arxiv.org/abs/2312.16765)
+
   E. Culf, T. Spirig
 
 + Synchronous Values of Games, with J. Helton, S. Nezhadi, V. Paulsen, T. Russel, Annales Henri Poincaré (1-41) 2024 and Tsirelson Memorial Workshop 2022, [arXiv:2109.14741](https://arxiv.org/abs/2109.14741).
