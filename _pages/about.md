@@ -7,12 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral fellow at the Simons Institute at Berkeley hosted by Prof. [Umesh Vazirani](https://people.eecs.berkeley.edu/~vazirani/). I completed my PhD in Computer Science at Columbia University advised by Prof. [Henry Yuen](https://www.henryyuen.net/). My research is focused on the interplay between quantum information and optimization particularly in the context of noncommutative polynomials, approximation algorithms, and hardness.
+I am a postdoctoral fellow at the Simons Institute at Berkeley hosted by Prof. [Umesh Vazirani](https://people.eecs.berkeley.edu/~vazirani/). I completed my PhD in Computer Science at Columbia University advised by Prof. [Henry Yuen](https://www.henryyuen.net/). My research centers on quantum computing and complexity, with a focus on advancing the theory of noncommutative polynomial optimization. I aim to deepen our understanding of constraint satisfaction problems in both quantum and classical settings, using the perspective of quantum information, primarily leveraging the unique properties of noncommutative algebras.
 
 You can download my **CV** [here](/files/cv.pdf). You can find a Q&A with me [here](https://quantum.columbia.edu/news/quantum-qa-phd-student-hamoon-mousavi). 
 
 **Publications**
-+ New investigation into noncommutative CSPs, with E. Culf, T. Spirig, **FOCS 2024**, [arXiv:2312.16765](https://arxiv.org/abs/2312.16765) and an updated version [here](/files/new_investigations.pdf).
++ Approximation Algorithms for Noncommutative CSPs, **FOCS 2024**, [arXiv:2312.16765](https://arxiv.org/abs/2312.16765](https://arxiv.org/abs/2312.16765)\\
+  E. Culf, T. Spirig
 
 + Synchronous Values of Games, with J. Helton, S. Nezhadi, V. Paulsen, T. Russel, Annales Henri Poincaré (1-41) 2024 and Tsirelson Memorial Workshop 2022, [arXiv:2109.14741](https://arxiv.org/abs/2109.14741).
 
