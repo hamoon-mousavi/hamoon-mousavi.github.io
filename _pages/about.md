@@ -72,7 +72,7 @@ Theoretical Informatics and Applications (50:39--66) 2016<br>
 + **A new approach to the paperfolding sequences**<br>
 D. Goc, H. Mousavi, L. Schaeffer, J. Shallit<br>
 11th Conference on Computability in Europe CIE 2015<br>
-[springer](https://link.springer.com/chapter/10.1007/978-3-319-20028-6_4)
+[doi:10.1007/978-3-319-20028-6_4](https://link.springer.com/chapter/10.1007/978-3-319-20028-6_4)
 
 + **Mechanical proofs of properties of the tribonacci word**<br>
 H. Mousavi, J. Shallit<br>
@@ -86,7 +86,7 @@ J. Shallit<br>
 
 + **On the number of unbordered factors**<br>
 D. Goc, J. Shallit<br>
-7th International Conference LATA 2013
+7th International Conference LATA 2013<br>
 [arXiv:1211.1301](https://doi.org/10.48550/arXiv.1304.2959)
 
 + **Repetition avoidance in circular factorsm**<br>
