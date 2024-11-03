@@ -12,66 +12,83 @@ I am a postdoctoral fellow at the Simons Institute at Berkeley hosted by Prof. [
 <!-- You can download my **CV** [here](/files/cv.pdf). You can find a Q&A with me [here](https://quantum.columbia.edu/news/quantum-qa-phd-student-hamoon-mousavi). -->
 
 **Publications**
-+ A Quantum Unique Games Conjecture, submitted 2024<br>
++ **A Quantum Unique Games Conjecture**<br>
 H. Mousavi, T. Spirig<br>
 [arXiv:2409.20028](https://arxiv.org/abs/2409.20028)  
 
-+ Approximation Algorithms for Noncommutative CSPs, **FOCS 2024**
-  E. Culf, H. Mousavi, T. Spirig
-  [arXiv:2312.16765](https://arxiv.org/abs/2312.16765)
++ **Approximation Algorithms for Noncommutative CSPs**<br>
+E. Culf, H. Mousavi, T. Spirig<br>
+Symposium on Foundations of Computer Science (**FOCS 2024**)<br>
+[arXiv:2312.16765](https://arxiv.org/abs/2312.16765)
   
-+ Synchronous Values of Games, Annales Henri Poincaré (1-41) 2024 and Tsirelson Memorial Workshop 2022
-  J. Helton, H. Mousavi, S. Nezhadi, V. Paulsen, T. Russel
-  [arXiv:2109.14741](https://arxiv.org/abs/2109.14741)
++ **Synchronous Values of Games**<br>
+J. Helton, H. Mousavi, S. Nezhadi, V. Paulsen, T. Russel<br>
+Annales Henri Poincaré (1-41) 2024<br>
+Tsirelson Memorial Workshop 2022<br>
+[arXiv:2109.14741](https://arxiv.org/abs/2109.14741)
 
-+ Nonlocal Games, Compression Theorems, and the Arithmetical Hierarchy, **QIP plenary talk 2022** and **STOC 2022**
-  H. Mousavi, S. Nezhadi, H. Yuen
-  [arXiv:2110.04651](https://arxiv.org/abs/2110.04651)
++ **Nonlocal Games, Compression Theorems, and the Arithmetical Hierarchy**<br>
+H. Mousavi, S. Nezhadi, H. Yuen<br>
+**QIP plenary talk 2022**<br>
+**STOC 2022**<br>
+[arXiv:2110.04651](https://arxiv.org/abs/2110.04651)
 
-+ On the complexity of zero gap MIP*, **ICALP 2020** and **TQC 2020**
-  H. Mousavi, S. Nezhadi, H. Yuen
-  [arXiv:2002.10490](https://arxiv.org/abs/2002.10490])
++ **On the complexity of zero gap MIP***<br>
+H. Mousavi, S. Nezhadi, H. Yuen<br>
+**ICALP 2020**<br>
+**TQC 2020**<br>
+[arXiv:2002.10490](https://arxiv.org/abs/2002.10490])
 
-+ A generalization of CHSH and the algebraic structure of optimal strategies, **QIP 2020** and Quantum (4, 346) 2020
-  D. Cui, A. Mehta, H. Mousavi, S. Nezhadi
-  [arXiv:1911.01593](https://arxiv.org/abs/1911.01593)
++ **A generalization of CHSH and the algebraic structure of optimal strategies**<br>
+D. Cui, A. Mehta, H. Mousavi, S. Nezhadi<br>
+**QIP 2020**<br>
+Quantum (4, 346) 2020<br>
+[arXiv:1911.01593](https://arxiv.org/abs/1911.01593)
 
++ **Decision algorithms for Fibonacci-automatic words, III: Enumeration and abelian properties**<br>
+C. Fei Du, H. Mousavi, L. Schaeffer, J. Shallit<br>
+International Journal of Foundations of Computer Science (27:943--963) 2016<br>
+[doi:10.1142/S0129054116500386](https://www.worldscientific.com/doi/abs/10.1142/S0129054116500386?srsltid=AfmBOopcvvAYepum-7i2h_770fyc8YLEjg8_1MZ2PkuZRJXNjlcy7e1x)
 
-+ Decision algorithms for Fibonacci-automatic words, III: Enumeration and abelian properties, International Journal of Foundations of Computer Science (27:943--963) 2016
-  C. Fei Du, H. Mousavi, L. Schaeffer, J. Shallit
-  [doi:10.1142/S0129054116500386](https://www.worldscientific.com/doi/abs/10.1142/S0129054116500386?srsltid=AfmBOopcvvAYepum-7i2h_770fyc8YLEjg8_1MZ2PkuZRJXNjlcy7e1x)
++ **Decision algorithms for Fibonacci-automatic words, II: Related sequences and avoidability**<br>
+C. Fei Du, H. Mousavi, E. Rowland, L. Schaeffer, J. Shallit<br>
+Theoretical Computer Science (657:146--162) 2017<br>
+[arXiv:1406.0670](https://arxiv.org/abs/1406.0670)
 
-+ Decision algorithms for Fibonacci-automatic words, II: Related sequences and avoidability, Theoretical Computer Science (657:146--162) 2017
-  C. Fei Du, H. Mousavi, E. Rowland, L. Schaeffer, J. Shallit 
-  [arXiv:1406.0670](https://arxiv.org/abs/1406.0670)
++ **Decision algorithms for Fibonacci-automatic words, I: Basic results**<br>
+H. Mousavi, L. Schaeffer, J. Shallit<br>
+Theoretical Informatics and Applications (50:39--66) 2016<br>
+[doi:10.1051/ita/2016010](https://www.rairo-ita.org/articles/ita/abs/2016/01/ita160024/ita160024.html)
 
-+ Decision algorithms for Fibonacci-automatic words, I: Basic results, Theoretical Informatics and Applications (50:39--66) 2016
-  H. Mousavi, L. Schaeffer, J. Shallit
-  [doi:10.1051/ita/2016010](https://www.rairo-ita.org/articles/ita/abs/2016/01/ita160024/ita160024.html)
++ **A new approach to the paperfolding sequences**<br>
+D. Goc, H. Mousavi, L. Schaeffer, J. Shallit<br>
+11th Conference on Computability in Europe CIE 2015<br>
+[springer](https://link.springer.com/chapter/10.1007/978-3-319-20028-6_4)
 
-+ A new approach to the paperfolding sequences, 11th Conference on Computability in Europe CIE 2015
-  D. Goc, H. Mousavi, L. Schaeffer, J. Shallit
-  [springer](https://link.springer.com/chapter/10.1007/978-3-319-20028-6_4)
++ **Mechanical proofs of properties of the tribonacci word**<br>
+H. Mousavi, J. Shallit<br>
+11th International Conference WORDS 2015<br>
+[arXiv:1407.5841](https://arxiv.org/abs/1407.5841)
 
-+ Mechanical proofs of properties of the tribonacci word, 11th International Conference WORDS 2015
-  H. Mousavi, J. Shallit
-  [arXiv:1407.5841](https://arxiv.org/abs/1407.5841)
++ **Shortest repetition-free words accepted by automata**<br>
+J. Shallit<br>
+15th International Workshop, DCFS 2013<br>
+[arXiv:1304.2959](https://arxiv.org/abs/1304.2959)
 
-+ Shortest repetition-free words accepted by automata, 15th International Workshop, DCFS 2013
-  J. Shallit
-  [arXiv:1304.2959](https://arxiv.org/abs/1304.2959)
++ **On the number of unbordered factors**<br>
+D. Goc, J. Shallit<br>
+7th International Conference LATA 2013
+[arXiv:1211.1301](https://arxiv.org/abs/1211.1301)
 
-+ On the number of unbordered factors, 7th International Conference LATA 2013
-  D. Goc, J. Shallit
-  [arXiv:1211.1301](https://arxiv.org/abs/1211.1301)
++ **Repetition avoidance in circular factorsm**<br>
+H. Mousavi, J. Shallit<br>
+17th International Conference DLT 2013<br>
+[arXiv:1212.0052](https://arxiv.org/abs/1212.0052)
 
-+ Repetition avoidance in circular factorsm, 17th International Conference DLT 2013
-  H. Mousavi, J. Shallit
-  [arXiv:1212.0052](https://arxiv.org/abs/1212.0052)
-
-+ Filtrations of formal languages by arithmetic progressions, Fundamenta Informaticae (123:135--142) 2013
-  H. Mousavi, J. Shallit
-  [arXiv:1112.3758](https://arxiv.org/abs/1112.3758}{arXiv:1112.3758)
++ **Filtrations of formal languages by arithmetic progressions**<br>
+H. Mousavi, J. Shallit<br>
+Fundamenta Informaticae (123:135--142) 2013<br>
+[arXiv:1112.3758](https://arxiv.org/abs/1112.3758}{arXiv:1112.3758)
 
 **Preprints and Manuscripts**
 + Lower bounds on the length of regular expressions, 2017, [arXiv:1712.00811](https://arxiv.org/abs/1712.00811v2)
