@@ -12,9 +12,9 @@ I am a postdoctoral fellow at the Simons Institute at Berkeley hosted by Prof. [
 <!-- You can download my **CV** [here](/files/cv.pdf). You can find a Q&A with me [here](https://quantum.columbia.edu/news/quantum-qa-phd-student-hamoon-mousavi). -->
 
 **Publications**
-+ A Quantum Unique Games Conjecture, submitted 2024
-  H. Mousavi, T. Spirig
-  [arXiv:2409.20028](https://arxiv.org/abs/2409.20028)
++ A Quantum Unique Games Conjecture, submitted 2024  
+  H. Mousavi, T. Spirig  
+  [arXiv:2409.20028](https://arxiv.org/abs/2409.20028)  
 
 + Approximation Algorithms for Noncommutative CSPs, **FOCS 2024**
   E. Culf, H. Mousavi, T. Spirig
