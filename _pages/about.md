@@ -97,7 +97,7 @@ Fundamenta Informaticae (123:135--142) 2013<br>
 + Automatic theorem proving in Walnut, 2016, [arXiv:1603.06017v1](https://arxiv.org/abs/1603.06017}{arXiv:1603.06017v1)
 
 **Software**
-I wrote the first version of [Walnut](https://github.com/hamousavi/Walnut), an automated theorem prover in the theory of presburger's arithmetic, in 2013. Prof. Jeffrey Shallit keeps an updated list of research papers that over the years have used Walnut [here](https://cs.uwaterloo.ca/~shallit/walnut.html). He has written a book on the subject with the title [The Logical Approach To Automatic Sequences: Exploring Combinatorics on Words with Walnut](https://cs.uwaterloo.ca/~shallit/walnut-book.html). 
+<p>I wrote the first version of [Walnut](https://github.com/hamousavi/Walnut), an automated theorem prover in the theory of presburger's arithmetic, in 2013. Prof. Jeffrey Shallit keeps an updated list of research papers that over the years have used Walnut [here](https://cs.uwaterloo.ca/~shallit/walnut.html). He has written a book on the subject with the title [The Logical Approach To Automatic Sequences: Exploring Combinatorics on Words with Walnut](https://cs.uwaterloo.ca/~shallit/walnut-book.html).</p> 
 
 
 
