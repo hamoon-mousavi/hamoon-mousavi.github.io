@@ -11,12 +11,14 @@ I am a postdoctoral fellow at the Simons Institute at Berkeley hosted by Prof. [
 
 My research focuses on quantum computing and complexity, with an emphasis on understanding polynomial optimization and constraint satisfaction problems in the noncommutative setting.
 <!-- You can download my **CV** [here](/files/cv.pdf). You can find a Q&A with me [here](https://quantum.columbia.edu/news/quantum-qa-phd-student-hamoon-mousavi). -->
+
 **Recent & Planned Talks**
 + December 5: Simons Quantum Pod Seminar
 + December 3: IQUIST Seminar at the University of Illinois Urbana-Champaign
 + November 22: Theory Seminar at the University of Washington
 + October 31: Post-FOCS Mini Theory Workshop at the University of Chicago/TTIC
 + October 29: 65th IEEE Symposium on Foundations of Computer Science (FOCS) 2024
+  
 **Publications**
 + **A quantum unique games conjecture**<br>
 H. Mousavi, T. Spirig<br>
