@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral fellow at the Simons Institute at Berkeley hosted by Prof. [Umesh Vazirani](https://people.eecs.berkeley.edu/~vazirani/). I completed my PhD in Computer Science at Columbia University advised by Prof. [Henry Yuen](https://www.henryyuen.net/). My research centers on quantum computing and complexity, with a focus on advancing the theory of noncommutative polynomial optimization. I aim to deepen our understanding of constraint satisfaction problems in both quantum and classical settings, using the perspective of quantum information, primarily leveraging the unique properties of noncommutative algebras.
+I am a postdoctoral fellow at the Simons Institute at Berkeley hosted by Prof. [Umesh Vazirani](https://people.eecs.berkeley.edu/~vazirani/). I completed my PhD in Computer Science at Columbia University advised by Prof. [Henry Yuen](https://www.henryyuen.net/). 
+
+My research centers on quantum computing and complexity, with a focus on advancing the theory of noncommutative polynomial optimization. I aim to deepen our understanding of constraint satisfaction problems in both quantum and classical settings, using the perspective of quantum information, primarily leveraging the unique properties of noncommutative algebras.
 
 <!-- You can download my **CV** [here](/files/cv.pdf). You can find a Q&A with me [here](https://quantum.columbia.edu/news/quantum-qa-phd-student-hamoon-mousavi). -->
 
@@ -95,8 +97,7 @@ Fundamenta Informaticae (123:135--142) 2013<br>
 + Automatic theorem proving in Walnut, 2016, [arXiv:1603.06017v1](https://arxiv.org/abs/1603.06017}{arXiv:1603.06017v1)
 
 **Software**
-
-  I wrote the first version of [Walnut](https://github.com/hamousavi/Walnut), an automated theorem prover in the theory of presburger's arithmetic, in 2013. Prof. Jeffrey Shallit keeps an updated list of research papers that over the years have used Walnut [here](https://cs.uwaterloo.ca/~shallit/walnut.html). He has written a book on the subject with the title [The Logical Approach To Automatic Sequences: Exploring Combinatorics on Words with Walnut](https://cs.uwaterloo.ca/~shallit/walnut-book.html). 
+I wrote the first version of [Walnut](https://github.com/hamousavi/Walnut), an automated theorem prover in the theory of presburger's arithmetic, in 2013. Prof. Jeffrey Shallit keeps an updated list of research papers that over the years have used Walnut [here](https://cs.uwaterloo.ca/~shallit/walnut.html). He has written a book on the subject with the title [The Logical Approach To Automatic Sequences: Exploring Combinatorics on Words with Walnut](https://cs.uwaterloo.ca/~shallit/walnut-book.html). 
 
 
 
