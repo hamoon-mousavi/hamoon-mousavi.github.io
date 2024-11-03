@@ -38,7 +38,7 @@ Tsirelson Memorial Workshop 2022<br>
 
 + **Nonlocal games, compression theorems, and the arithmetical hierarchy**<br>
 H. Mousavi, S. Nezhadi, H. Yuen<br>
-Conference on Quantum Information Processing (**QIP**) **plenary talk** 2022<br>
+Conference on Quantum Information Processing (**QIP**) 2022 **plenary talk**<br>
 Symposium on Theory of Computing (**STOC**) 2022<br>
 [arXiv:2110.04651](https://doi.org/10.48550/arXiv.2110.04651)
 
