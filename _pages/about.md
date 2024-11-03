@@ -12,37 +12,37 @@ I am a postdoctoral fellow at the Simons Institute at Berkeley hosted by Prof. [
 <!-- You can download my **CV** [here](/files/cv.pdf). You can find a Q&A with me [here](https://quantum.columbia.edu/news/quantum-qa-phd-student-hamoon-mousavi). -->
 
 **Publications**
-+ **A Quantum Unique Games Conjecture**<br>
++ **A quantum unique games conjecture**<br>
 H. Mousavi, T. Spirig<br>
 [arXiv:2409.20028](https://arxiv.org/abs/2409.20028)  
 
-+ **Approximation Algorithms for Noncommutative CSPs**<br>
++ **Approximation algorithms for noncommutative CSPs**<br>
 E. Culf, H. Mousavi, T. Spirig<br>
-Symposium on Foundations of Computer Science (**FOCS 2024**)<br>
+Symposium on Foundations of Computer Science (**FOCS**) 2024<br>
 [arXiv:2312.16765](https://arxiv.org/abs/2312.16765)
   
-+ **Synchronous Values of Games**<br>
++ **Synchronous values of games**<br>
 J. Helton, H. Mousavi, S. Nezhadi, V. Paulsen, T. Russel<br>
-Annales Henri Poincaré (1-41) 2024<br>
+Annales Henri Poincaré 2024<br>
 Tsirelson Memorial Workshop 2022<br>
 [arXiv:2109.14741](https://arxiv.org/abs/2109.14741)
 
-+ **Nonlocal Games, Compression Theorems, and the Arithmetical Hierarchy**<br>
++ **Nonlocal games, compression theorems, and the arithmetical hierarchy**<br>
 H. Mousavi, S. Nezhadi, H. Yuen<br>
-**QIP plenary talk 2022**<br>
-**STOC 2022**<br>
+Conference on Quantum Information Processing (**QIP**) **plenary talk** 2022<br>
+Symposium on Theory of Computing (**STOC**) 2022<br>
 [arXiv:2110.04651](https://arxiv.org/abs/2110.04651)
 
 + **On the complexity of zero gap MIP***<br>
 H. Mousavi, S. Nezhadi, H. Yuen<br>
-**ICALP 2020**<br>
-**TQC 2020**<br>
+International Colloquium on Automata, Languages and Programming (ICALP) 2020<br>
+Theory of Quantum Computation, Communication and Cryptography (TQC) 2020<br>
 [arXiv:2002.10490](https://arxiv.org/abs/2002.10490])
 
 + **A generalization of CHSH and the algebraic structure of optimal strategies**<br>
 D. Cui, A. Mehta, H. Mousavi, S. Nezhadi<br>
-**QIP 2020**<br>
-Quantum (4, 346) 2020<br>
+Conference on Quantum Information Processing (**QIP**) 2020<br>
+Quantum Journal 2020<br>
 [arXiv:1911.01593](https://arxiv.org/abs/1911.01593)
 
 + **Decision algorithms for Fibonacci-automatic words, III: Enumeration and abelian properties**<br>
