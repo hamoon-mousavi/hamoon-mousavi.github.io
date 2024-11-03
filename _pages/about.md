@@ -20,6 +20,7 @@ My research focuses on quantum computing and complexity, with an emphasis on und
 **Publications**
 + **A quantum unique games conjecture**<br>
 H. Mousavi, T. Spirig<br>
+Innovations in Theoretical Computer Science (**ITCS**) 2025
 [arXiv:2409.20028](https://doi.org/10.48550/arXiv.2409.20028)  
 
 + **Approximation algorithms for noncommutative CSPs**<br>
