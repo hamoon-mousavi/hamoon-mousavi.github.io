@@ -13,7 +13,7 @@ I am a postdoctoral fellow at the Simons Institute at Berkeley hosted by Prof. [
 
 **Publications**
 + A Quantum Unique Games Conjecture, submitted 2024<br>
-H. Mousavi, T. Spirig<br>  
+H. Mousavi, T. Spirig<br>
 [arXiv:2409.20028](https://arxiv.org/abs/2409.20028)  
 
 + Approximation Algorithms for Noncommutative CSPs, **FOCS 2024**
