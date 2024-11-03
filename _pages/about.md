@@ -57,7 +57,7 @@ Quantum Journal 2020<br>
 + **Decision algorithms for Fibonacci-automatic words, III: Enumeration and abelian properties**<br>
 C. Fei Du, H. Mousavi, L. Schaeffer, J. Shallit<br>
 International Journal of Foundations of Computer Science (27:943--963) 2016<br>
-[doi:10.1142/S0129054116500386](https://doi.org/10.1142/S0129054116500386)
+[link](https://doi.org/10.1142/S0129054116500386)
 
 + **Decision algorithms for Fibonacci-automatic words, II: Related sequences and avoidability**<br>
 C. Fei Du, H. Mousavi, E. Rowland, L. Schaeffer, J. Shallit<br>
@@ -67,12 +67,12 @@ Theoretical Computer Science (657:146--162) 2017<br>
 + **Decision algorithms for Fibonacci-automatic words, I: Basic results**<br>
 H. Mousavi, L. Schaeffer, J. Shallit<br>
 Theoretical Informatics and Applications (50:39--66) 2016<br>
-[doi:10.1051/ita/2016010](https://doi.org/10.1007/978-3-319-20028-6_4)
+[link](https://doi.org/10.1007/978-3-319-20028-6_4)
 
 + **A new approach to the paperfolding sequences**<br>
 D. Goc, H. Mousavi, L. Schaeffer, J. Shallit<br>
 11th Conference on Computability in Europe CIE 2015<br>
-[doi:10.1007/978-3-319-20028-6_4](https://link.springer.com/chapter/10.1007/978-3-319-20028-6_4)
+[link](https://link.springer.com/chapter/10.1007/978-3-319-20028-6_4)
 
 + **Mechanical proofs of properties of the tribonacci word**<br>
 H. Mousavi, J. Shallit<br>
