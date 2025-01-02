@@ -9,7 +9,9 @@ redirect_from:
 
 I am a postdoctoral fellow at the Simons Institute, Berkeley hosted by Prof. [Umesh Vazirani](https://people.eecs.berkeley.edu/~vazirani/). I completed my PhD in Computer Science at Columbia University advised by Prof. [Henry Yuen](https://www.henryyuen.net/). 
 
-My research focuses on quantum computing and complexity, with an emphasis on understanding polynomial optimization and constraint satisfaction problems in the noncommutative setting. You can download my **CV** [here](/files/cv.pdf). <!-- You can find a Q&A with me [here](https://quantum.columbia.edu/news/quantum-qa-phd-student-hamoon-mousavi). -->
+My research focuses on quantum computing and complexity, with an emphasis on understanding polynomial optimization and constraint satisfaction problems in the noncommutative setting. 
+
+You can download my **CV** [here](/files/cv.pdf). A short talk on the theme of my research can be found [here](https://www.youtube.com/watch?v=oqQfQ4smdZk&t=1s). [Here](https://youtu.be/gq1nBX5cf8k?si=Na60avRLSyqtg2wK) is a long talk on noncommutating rounding schemes. And [here](https://youtu.be/lrxM_SkQIuE?si=k9umDLuTtBWpb_Gi) is my QIP 2022 plenary talk. You can find a Q&A with me [here](https://quantum.columbia.edu/news/quantum-qa-phd-student-hamoon-mousavi).
 
 **Recent Talks**
 + January 9: Theory Seminar, NYU
@@ -113,6 +115,24 @@ Fundamenta Informaticae (123:135--142) 2013<br>
 **Automated Theorem Proving**
 
 [Walnut](https://doi.org/10.48550/arXiv.1603.06017), a software I developed in 2013, is an automated theorem prover designed to handle first-order statements in Presburger arithmetic with automata. [Jeffrey Shallit](https://cs.uwaterloo.ca/~shallit) maintains a [list](https://cs.uwaterloo.ca/~shallit/walnut.html) of research papers that have utilized Walnut. In 2022, Shallit authored a book "The Logical Approach to Automatic Sequences: Exploring Combinatorics on Words with Walnut," providing an in-depth exploration of Walnut's applications in combinatorics on words. 
+
+**Some running and cycling photos**
+[Wuling Pass, Taiwan](/files/pics/wuling)
+[Dolomites](/files/pics/dolomites)
+[Vrsic-pass, Slovenia](/files/pics/vrsic-pass)
+[Julian Alps](/files/pics/julian-alps)
+[Austrian Alps](/files/pics/austrian-alps)
+[Lake Como](/files/pics/como)
+[Swiss Alps](/files/pics/swiss-alps)
+[Northern California](/files/pics/norcal)
+[Yosemite](/files/pics/yosemite)
+[New York City Marathon](/files/pics/nyc-marathon)
+
+
+
+
+
+
 
 <!--The recent advancements in machine learning present exciting opportunities to rethink automated theorem proving. -->
 
