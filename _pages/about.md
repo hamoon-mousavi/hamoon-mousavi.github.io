@@ -7,26 +7,31 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral fellow at the Simons Institute at Berkeley hosted by Prof. [Umesh Vazirani](https://people.eecs.berkeley.edu/~vazirani/). I completed my PhD in Computer Science at Columbia University advised by Prof. [Henry Yuen](https://www.henryyuen.net/). 
+I am a postdoctoral fellow at the Simons Institute, Berkeley hosted by Prof. [Umesh Vazirani](https://people.eecs.berkeley.edu/~vazirani/). I completed my PhD in Computer Science at Columbia University advised by Prof. [Henry Yuen](https://www.henryyuen.net/). 
 
-My research focuses on quantum computing and complexity, with an emphasis on understanding polynomial optimization and constraint satisfaction problems in the noncommutative setting.
-<!-- You can download my **CV** [here](/files/cv.pdf). You can find a Q&A with me [here](https://quantum.columbia.edu/news/quantum-qa-phd-student-hamoon-mousavi). -->
+My research focuses on quantum computing and complexity, with an emphasis on understanding polynomial optimization and constraint satisfaction problems in the noncommutative setting. You can download my **CV** [here](/files/cv.pdf). <!-- You can find a Q&A with me [here](https://quantum.columbia.edu/news/quantum-qa-phd-student-hamoon-mousavi). -->
 
-**Recent & Planned Talks**
-+ December 5: Simons Quantum Pod Seminar
-+ December 3: IQUIST Seminar at the University of Illinois Urbana-Champaign
-+ November 22: Theory Seminar at the University of Washington
+**Recent Talks**
++ January 9: Theory Seminar, NYU
++ January 7: ITCS 2025, Columbia University
++ December 5: Quantum Pod Seminar, Simons Institute
++ December 3: IQUIST Seminar, University of Illinois Urbana-Champaign
++ November 22: Theory Lunch, University of Washington
++ November 14: Quantum Computing Seminar, Harvard
++ November 13: MIT
 + October 31: Post-FOCS Mini Theory Workshop at the University of Chicago/TTIC
-+ October 29: 65th IEEE Symposium on Foundations of Computer Science (FOCS) 2024
++ October 29: FOCS 2024
   
 **Publications**
 + **A quantum unique games conjecture**<br>
 H. Mousavi, T. Spirig<br>
+Conference on Quantum Information Processing (**QIP**) 2025<br>
 Innovations in Theoretical Computer Science (**ITCS**) 2025<br>
 [arXiv:2409.20028](https://doi.org/10.48550/arXiv.2409.20028)  
 
 + **Approximation algorithms for noncommutative CSPs**<br>
 E. Culf, H. Mousavi, T. Spirig<br>
+Conference on Quantum Information Processing (**QIP**) 2025<br>
 Symposium on Foundations of Computer Science (**FOCS**) 2024<br>
 [arXiv:2312.16765](https://doi.org/10.48550/arXiv.2312.16765)
   
