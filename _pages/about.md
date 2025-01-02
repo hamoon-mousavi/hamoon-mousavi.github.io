@@ -14,13 +14,15 @@ My research focuses on quantum computing and complexity, with an emphasis on und
 **Recent Talks**
 + January 9: Theory Seminar, NYU
 + January 7: ITCS 2025, Columbia University
-+ December 5: Quantum Pod Seminar, Simons Institute
-+ December 3: IQUIST Seminar, University of Illinois Urbana-Champaign
-+ November 22: Theory Lunch, University of Washington
-+ November 14: Quantum Computing Seminar, Harvard
++ December 5: Quantum Pod Seminar, Simons Institute 
++ December 3: IQUIST Seminar, University of Illinois Urbana-Champaign [slides](/files/UIUC.pdf) [video](https://www.youtube.com/watch?v=Sx4QT3y44w8)
++ December 2: Quantum Working Group Seminar, University of Illinois Urbana-Champaign
++ November 22: Theory Lunch, University of Washington [slides](/files/UW.pdf)
++ November 14: Quantum Computing Seminar, Harvard [slides](/files/Harvard.pdf)
 + November 13: MIT
-+ October 31: Post-FOCS Mini Theory Workshop at the University of Chicago/TTIC
-+ October 29: FOCS 2024
++ October 31: Post-FOCS Mini Theory Workshop at the University of Chicago/TTIC [slides](/files/UChicago.pdf)
++ October 29: FOCS 2024 [slides](/files/FOCS.pdf)
++ April 23, Probabilistic Operator Algebra Seminar, UC Berkeley [slides](/files/freeprob.pdf)
   
 **Publications**
 + **A quantum unique games conjecture**<br>
