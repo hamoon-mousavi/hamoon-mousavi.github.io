@@ -98,7 +98,7 @@ D. Goc, J. Shallit<br>
 7th International Conference LATA 2013<br>
 [arXiv:1211.1301](https://doi.org/10.48550/arXiv.1304.2959)
 
-+ **Repetition avoidance in circular factorsm**<br>
++ **Repetition avoidance in circular factors**<br>
 H. Mousavi, J. Shallit<br>
 17th International Conference DLT 2013<br>
 [arXiv:1212.0052](https://doi.org/10.48550/arXiv.1212.0052)
