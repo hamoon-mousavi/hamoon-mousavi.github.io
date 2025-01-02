@@ -118,16 +118,16 @@ Fundamenta Informaticae (123:135--142) 2013<br>
 
 **Some running and cycling photos**
 
-[Wuling Pass, Taiwan](/files/pics/wuling),
-[Dolomites](/files/pics/dolomites),
-[Vrsic-pass, Slovenia](/files/pics/vrsic-pass),
-[Julian Alps](/files/pics/julian-alps),
-[Austrian Alps](/files/pics/austrian-alps),
-[Lake Como](/files/pics/como),
-[Swiss Alps](/files/pics/swiss-alps),
-[Northern California](/files/pics/norcal),
-[Yosemite](/files/pics/yosemite),
-[New York City Marathon](/files/pics/nyc-marathon)
+[Wuling Pass, Taiwan](/files/pics/wuling.jpeg),
+[Dolomites](/files/pics/dolomites.jpeg),
+[Vrsic-pass, Slovenia](/files/pics/vrsic-pass.jpeg),
+[Julian Alps](/files/pics/julian-alps.jpeg),
+[Austrian Alps](/files/pics/austrian-alps.jpeg),
+[Lake Como](/files/pics/como.jpeg),
+[Swiss Alps](/files/pics/swiss-alps.jpeg),
+[Northern California](/files/pics/norcal.jpeg),
+[Yosemite](/files/pics/yosemite.jpeg),
+[New York City Marathon](/files/pics/nyc-marathon.jpg)
 
 
 
