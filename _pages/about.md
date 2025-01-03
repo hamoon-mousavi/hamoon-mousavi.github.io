@@ -25,7 +25,7 @@ You can download my **CV** [here](/files/cv.pdf). A short talk on the theme of m
 + November 13: MIT
 + October 31: Post-FOCS Mini Theory Workshop at the University of Chicago/TTIC [slides](/files/UChicago.pdf)
 + October 29: FOCS 2024 [slides](/files/FOCS.pdf)
-+ April 23, Probabilistic Operator Algebra Seminar, UC Berkeley [slides](/files/freeprob.pdf)
++ April 23: Probabilistic Operator Algebra Seminar, UC Berkeley [slides](/files/freeprob.pdf)
   
 **Publications**
 + **A quantum unique games conjecture**<br>
