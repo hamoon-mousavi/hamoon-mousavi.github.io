@@ -13,8 +13,22 @@ My research focuses on quantum computing and complexity, with an emphasis on und
 
 You can download my **CV** [here](/files/cv.pdf). A short talk on the theme of my research can be found [here](https://www.youtube.com/watch?v=oqQfQ4smdZk&t=1s). [Here](https://youtu.be/gq1nBX5cf8k?si=Na60avRLSyqtg2wK) is a long talk on noncommutating rounding schemes. And [here](https://youtu.be/lrxM_SkQIuE?si=k9umDLuTtBWpb_Gi) is my QIP 2022 plenary talk. You can find a Q&A with me [here](https://quantum.columbia.edu/news/quantum-qa-phd-student-hamoon-mousavi).
 
+
 **Recent Talks**
-+ January 9: Theory Seminar, NYU
++ January 9: Theory Seminar, NYU<details>
+  <summary>Title and Abstract</summary>
+  Title: Constraint satisfaction in the quantum setting 
+  
+  Abstract:
+    Finding an assignment to a set of variables (e.g., Boolean variables) that satisfies a given set of constraints is known as a constraint satisfaction problem (CSP). Maximizing the number of satisfied constraints can be framed as a problem of optimizing a multivariate polynomial over a discrete set (-1 and +1, in this case). If we relax the requirement that these variables commute, we enter the realm of noncommutative polynomial optimization (where the role of units -1 and +1 are played by unitary matrices). These resulting optimization problems, known as quantum constraint satisfaction problems, play a significant role in quantum information. They are also recognized by different names in various fields: physicists refer to them as nonlocal games, while computer scientists call them entangled multiprover interactive proofs.
+    
+    
+    
+    In the classical, commutative setting, we have a deep understanding of CSPs. For instance, we know which problems are NP-hard and how well we can approximate them. In this talk, I will explore the intriguing twists that arise in the quantum setting as we begin to understand quantum CSPs. Along the way we discuss a number of questions. Do we have a quantum PCP theorem? What about a quantum Unique Games Conjecture? How does the Majority Is Stablest theorem extend to the noncommutative world? Could the broader framework of noncommutative CSPs reveal new insights into classical CSPs? When considering quantum CSPs, could quantum approximation algorithms beat classical ones?
+
+
+
+  Pardon the jargon in the latter questions. The talk will be fully self-contained and will not assume prior knowledge of quantum information or CSPs.</details>
 + January 7: ITCS 2025, Columbia University
 + December 5: Quantum Pod Seminar, Simons Institute 
 + December 3: IQUIST Seminar, University of Illinois Urbana-Champaign [slides](/files/UIUC.pdf) [video](https://www.youtube.com/watch?v=Sx4QT3y44w8)
