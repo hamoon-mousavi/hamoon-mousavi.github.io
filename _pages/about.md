@@ -15,8 +15,8 @@ You can download my **CV** [here](/files/cv.pdf). A short talk on the theme of m
 
 
 **Recent Talks**
-+ January 24, Computer Science Department, Stony Brook [slides](/files/StonyBrook.pdf)
-+ January 17, Theory Lunch, Columbia University
++ January 24: Computer Science Department, Stony Brook [slides](/files/StonyBrook.pdf)
++ January 17: Theory Lunch, Columbia University
 + January 9: Theory Seminar, NYU
 + January 7: ITCS 2025, Columbia University
 + December 5: Quantum Pod Seminar, Simons Institute 
