@@ -15,7 +15,9 @@ You can download my **CV** [here](/files/cv.pdf). A short talk on the theme of m
 
 
 **Recent Talks**
-+ January 9: Theory Seminar, NYU
++ January 24, Computer Science Department, Stony Brook
++ January 17, Theory Lunch, Columbia University
++ January 9: Theory Seminar, NYU [slides](/files/NYU.pdf)
 + January 7: ITCS 2025, Columbia University
 + December 5: Quantum Pod Seminar, Simons Institute 
 + December 3: IQUIST Seminar, University of Illinois Urbana-Champaign [slides](/files/UIUC.pdf) [video](https://www.youtube.com/watch?v=Sx4QT3y44w8)
