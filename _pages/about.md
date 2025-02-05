@@ -119,7 +119,8 @@ Fundamenta Informaticae (123:135--142) 2013<br>
 
 [Walnut](https://doi.org/10.48550/arXiv.1603.06017), a software I developed in 2013, is an automated theorem prover designed to handle first-order statements in Presburger arithmetic with automata. [Jeffrey Shallit](https://cs.uwaterloo.ca/~shallit) maintains a [list](https://cs.uwaterloo.ca/~shallit/walnut.html) of research papers that have utilized Walnut. In 2022, Shallit authored a book "The Logical Approach to Automatic Sequences: Exploring Combinatorics on Words with Walnut," providing an in-depth exploration of Walnut's applications in combinatorics on words. 
 
-**Some Running and Cycling Photos**
+**Gradient Descent (On Hills and Trails)**
+Not into quantum speedup? No worries! Cardio speedup is also a great conversation starter.
 
 [Wuling Pass, Taiwan](/files/pics/wuling.jpeg),
 [Dolomites](/files/pics/dolomites.jpeg),
