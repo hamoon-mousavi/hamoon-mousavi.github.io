@@ -120,7 +120,7 @@ Fundamenta Informaticae (123:135--142) 2013<br>
 
 -----------------------------------------------------------
 **Automated theorem proving.**
-I developed the first version of [Walnut](https://doi.org/10.48550/arXiv.1603.06017) in 2013. It is an automated theorem prover for first-order statements in Presburger arithmetic with automata. Since then, it has been used in the research community, with Prof. [Jeffrey Shallit](https://cs.uwaterloo.ca/~shallit) maintaining a [list](https://cs.uwaterloo.ca/~shallit/walnut.html) of publications that have cited Walnut.
+I developed the first version of [Walnut](https://doi.org/10.48550/arXiv.1603.06017) in 2014. It is an automated theorem prover for first-order statements in Presburger arithmetic with automata. Since then, it has been used in the research community, with Prof. [Jeffrey Shallit](https://cs.uwaterloo.ca/~shallit) maintaining a [list](https://cs.uwaterloo.ca/~shallit/walnut.html) of publications that have cited Walnut.
 
 **Gradient ascent (hills and trails edition).**
   Not into quantum speedup? Cardio speedup is also a nice conversation starter: [Wuling Pass, Taiwan](/files/pics/wuling.jpeg),
