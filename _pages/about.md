@@ -13,6 +13,7 @@ My research focuses on quantum computing and complexity, with an emphasis on und
 
 A short talk on the theme of my research can be found [here](https://www.youtube.com/watch?v=oqQfQ4smdZk&t=1s). [Here](https://youtu.be/gq1nBX5cf8k?si=Na60avRLSyqtg2wK) is a long talk on noncommutative rounding schemes. And [here](https://youtu.be/lrxM_SkQIuE?si=k9umDLuTtBWpb_Gi) is my QIP 2022 plenary talk. You can find a Q&A with me [here](https://quantum.columbia.edu/news/quantum-qa-phd-student-hamoon-mousavi).
 
+--------------------------------------
 **Recent Talks**
 ================
   + January 24: Computer Science Department, Stony Brook [slides](/files/StonyBrook.pdf)
@@ -28,7 +29,8 @@ A short talk on the theme of my research can be found [here](https://www.youtube
   + October 31: Post-FOCS Mini Theory Workshop at the University of Chicago/TTIC [slides](/files/UChicago.pdf)
   + October 29: FOCS 2024 [slides](/files/FOCS.pdf)
   + April 23: Probabilistic Operator Algebra Seminar, UC Berkeley [slides](/files/freeprob.pdf)
-  
+
+--------------------------------------
 **Publications**
 ================
   + **A quantum unique games conjecture**<br>
