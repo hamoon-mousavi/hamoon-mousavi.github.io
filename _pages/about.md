@@ -13,7 +13,7 @@ My research focuses on quantum computing and complexity, with an emphasis on und
 
 A short talk on the theme of my research can be found [here](https://www.youtube.com/watch?v=oqQfQ4smdZk&t=1s). [Here](https://youtu.be/gq1nBX5cf8k?si=Na60avRLSyqtg2wK) is a long talk on noncommutative rounding schemes. And [here](https://youtu.be/lrxM_SkQIuE?si=k9umDLuTtBWpb_Gi) is my QIP 2022 plenary talk. You can find a Q&A with me [here](https://quantum.columbia.edu/news/quantum-qa-phd-student-hamoon-mousavi).
 
-+ **Recent Talks**
+**Recent Talks**
   + January 24: Computer Science Department, Stony Brook [slides](/files/StonyBrook.pdf)
   + January 17: Theory Lunch, Columbia University
   + January 9: Theory Seminar, NYU
@@ -28,7 +28,7 @@ A short talk on the theme of my research can be found [here](https://www.youtube
   + October 29: FOCS 2024 [slides](/files/FOCS.pdf)
   + April 23: Probabilistic Operator Algebra Seminar, UC Berkeley [slides](/files/freeprob.pdf)
   
-+ **Publications**
+**Publications**
   + **A quantum unique games conjecture**<br>
 H. Mousavi, T. Spirig<br>
 Conference on Quantum Information Processing (**QIP**) 2025<br>
@@ -110,14 +110,14 @@ H. Mousavi, J. Shallit<br>
 Fundamenta Informaticae (123:135--142) 2013<br>
 [arXiv:1112.3758](https://doi.org/10.48550/arXiv.1112.3758)
 
-+ **Preprints and Manuscripts**
+**Preprints and Manuscripts**  
   + Lower bounds on the length of regular expressions, 2017, [arXiv:1712.00811](https://doi.org/10.48550/arXiv.1712.00811)
   + Automatic theorem proving in Walnut, 2016, [arXiv:1603.06017](https://doi.org/10.48550/arXiv.1603.06017)
 
-+ **Automated Theorem Proving.**
-I developed the first version of [Walnut](https://doi.org/10.48550/arXiv.1603.06017) in 2013. It is an automated theorem prover for first-order statements in Presburger arithmetic with automata. Since then, it has been widely used in research, with Prof. [Jeffrey Shallit](https://cs.uwaterloo.ca/~shallit) maintaining a [list](https://cs.uwaterloo.ca/~shallit/walnut.html) of publications that have employed Walnut. I also had the great fortune of having Prof. Shallit as my Master's advisor 2011-2013.
+**Automated Theorem Proving.**
+I developed the first version of [Walnut](https://doi.org/10.48550/arXiv.1603.06017) in 2013. It is an automated theorem prover for first-order statements in Presburger arithmetic with automata. Since then, it has been used in the research community, with Prof. [Jeffrey Shallit](https://cs.uwaterloo.ca/~shallit) maintaining a [list](https://cs.uwaterloo.ca/~shallit/walnut.html) of publications that have cited Walnut.
 
-+ **Gradient Ascent (Hills and Trails Edition).**
+**Gradient Ascent (Hills and Trails Edition).**
   Not into quantum speedup? Cardio speedup is also a nice conversation starter: [Wuling Pass, Taiwan](/files/pics/wuling.jpeg),
 [Dolomites](/files/pics/dolomites.jpeg),
 [Vrsic-pass, Slovenia](/files/pics/vrsic-pass.jpeg),
