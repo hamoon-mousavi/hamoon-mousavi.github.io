@@ -117,7 +117,7 @@ Fundamenta Informaticae (123:135--142) 2013<br>
 
 **Automated Theorem Proving**
 
-[Walnut](https://doi.org/10.48550/arXiv.1603.06017), a software I developed in 2013, is an automated theorem prover designed to handle first-order statements in Presburger arithmetic with automata. Prof. [Jeffrey Shallit](https://cs.uwaterloo.ca/~shallit), who was my Master's advisor, maintains a [list](https://cs.uwaterloo.ca/~shallit/walnut.html) of research papers that have utilized Walnut. In 2022, Shallit authored a book "The Logical Approach to Automatic Sequences: Exploring Combinatorics on Words with Walnut," providing an in-depth exploration of Walnut's applications in combinatorics on words. 
+I developed the first version of [Walnut](https://doi.org/10.48550/arXiv.1603.06017) in 2013 as an automated theorem prover for first-order statements in Presburger arithmetic with automata. Since then, it has been widely used in research, with Prof. Jeffrey Shallit maintaining a list of publications that have employed Walnut. In 2022, Shallit authored The Logical Approach to Automatic Sequences: Exploring Combinatorics on Words with Walnut, offering a comprehensive study of Walnut’s applications in combinatorics on words. Prof. Shallit was also my Master's advisor.
 
 **Software Engineering**
 + Alphabet Inc., 2016-2018
