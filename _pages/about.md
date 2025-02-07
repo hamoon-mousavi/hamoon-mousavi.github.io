@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral fellow at the Simons Institute, Berkeley hosted by Prof. [Umesh Vazirani](https://people.eecs.berkeley.edu/~vazirani/). I completed my PhD in 2023 in computer science at Columbia University advised by Prof. [Henry Yuen](https://www.henryyuen.net/). You can download my **CV** [here](/files/cv.pdf).
+I am a postdoctoral fellow at the Simons Institute, Berkeley hosted by Prof. [Umesh Vazirani](https://people.eecs.berkeley.edu/~vazirani/). I completed my PhD in 2023 in computer science at Columbia University advised by Prof. [Henry Yuen](https://www.henryyuen.net/). You can download my CV [here](/files/cv.pdf).
 
 My research focuses on quantum computing and complexity, with an emphasis on understanding polynomial optimization and constraint satisfaction problems in the noncommutative setting. 
 
