@@ -95,12 +95,12 @@ H. Mousavi, J. Shallit<br>
 [arXiv:1407.5841](https://doi.org/10.48550/arXiv.1407.5841)
 
   + **Shortest repetition-free words accepted by automata**<br>
-J. Shallit<br>
+H. Mousavi, J. Shallit<br>
 15th International Workshop, DCFS 2013<br>
 [arXiv:1304.2959](https://arxiv.org/abs/1304.2959)
 
   + **On the number of unbordered factors**<br>
-D. Goc, J. Shallit<br>
+D. Goc, H. Mousavi, J. Shallit<br>
 7th International Conference LATA 2013<br>
 [arXiv:1211.1301](https://doi.org/10.48550/arXiv.1304.2959)
 
